@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Vain560/Vain560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Иван Солодов, начинающий фронтенд-разработчик с интересом к современным веб-технологиям и созданию удобных интерфейсов. Моя цель — развиваться и работать над интересными проектами.
 
-Here are some ideas to get you started:
+## 🛠 Навыки и технологии:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Основные:** HTML, CSS, SCSS, JavaScript (ES6+), Node.js
+- **Инструменты:** Git, GitHub, GitHub Actions, Webpack, Jest
+
+## 🔗 Ссылки:
+
+- [Моё резюме]((https://cv.hexlet.io/ru/resumes/6828)е)
+- [Профиль на Hexlet]([https://ru.hexlet.io/u/ваше_имя](https://ru.hexlet.io/u/solodov_vi))
+
+## 📫 Контакты:
+
+- **Email:** solodov.82@yandex.ru
+
+## 📈 Моя активность:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Vain560&show_icons=true&theme=default)
+

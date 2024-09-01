@@ -9,8 +9,8 @@
 
 ## 🔗 Ссылки:
 
-- [Моё резюме]((https://cv.hexlet.io/ru/resumes/6828)е)
-- [Профиль на Hexlet]([https://ru.hexlet.io/u/ваше_имя](https://ru.hexlet.io/u/solodov_vi))
+- [Моё резюме](https://cv.hexlet.io/ru/resumes/6828)
+- [Профиль на Hexlet](https://ru.hexlet.io/u/solodov_vi)
 
 ## 📫 Контакты:
 

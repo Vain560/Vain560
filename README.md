@@ -4,19 +4,9 @@
 
 ## 🛠 Навыки и технологии:
 
-- **Основные:** HTML, CSS, SCSS, JavaScript (ES6+), Node.js
-- **Инструменты:** Git, GitHub, GitHub Actions, Webpack, Jest
-
-## 🔗 Ссылки:
-
-- [Моё резюме](https://cv.hexlet.io/ru/resumes/6828)
-- [Профиль на Hexlet](https://ru.hexlet.io/u/solodov_vi)
+- **Основные:** HTML, CSS, SCSS, JavaScript (ES6+), React, TypeScript, Node.js  
+- **Инструменты:** Git, GitHub, GitHub Actions, Webpack, Jest, React Query, MUI  
 
 ## 📫 Контакты:
 
-- **Email:** solodov.82@yandex.ru
-
-## 📈 Моя активность:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Vain560&show_icons=true&theme=default)
-
+- **Email:** solodov.820@gmail.com
